@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="jenis_pelayanan">
+      <item>Surat Aktif Kuliah</item>
+      <item>Surat Permohonan KKN</item>
+      <item>Pembuatan KTM</item>
+  </string-array>
+</resources>
